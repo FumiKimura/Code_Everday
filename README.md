@@ -1,6 +1,14 @@
 # Code_Everday
 Track my progress on study coding everyday
 
+## Jan 6th 2021
+今日の感想
+
+今日はちょっと手詰まり感があり、
+optionごとに生成する配列をかえるのか、
+それとも読み込み自体を変えるのか考えていたら、
+時間がすぎていました。
+
 ## Jan 5th 2021
 今日の感想
 昨日の分の感想を書くのを忘れちゃったので、
