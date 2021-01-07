@@ -1,6 +1,15 @@
 # Code_Everday
 Track my progress on study coding everyday
 
+## Jan 7th 2021
+今日の感想
+globのオプションのflagsが定数で設定可能なので、
+ネットで検索してた結果、File::FNM_DOTMATCHという定数が値として挿入されているケースがあった。
+File::FNM_DOTMATCHの数値を知るためにレフレンスマニュアルを読んで理解を深める経験できた。
+
+やっぱりマニュアルを読んで、
+定義をしっかりと理解することが時間を節約することができる最短のアプローチと認識。
+
 ## Jan 6th 2021
 今日の感想
 
