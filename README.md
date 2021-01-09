@@ -1,6 +1,16 @@
 # Code_Everday
 Track my progress on study coding everyday
 
+## Jan 8th 2021
+今日の感想
+ボウリングプログラムのメンターレビューが終わり、
+無事に問題なく通過できました。
+
+明日は、
+ボウリングプログラムのリファクタリングをしつつ、
+lsプログラムを進めねば。
+
+
 ## Jan 7th 2021
 今日の感想
 globのオプションのflagsが定数で設定可能なので、
