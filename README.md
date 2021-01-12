@@ -1,6 +1,10 @@
 # Code_Everday
 Track my progress on study coding everyday
 
+## Jan 11th 2021
+今日の感想
+https://zenn.dev/universato/articles/20201202-z-mode
+
 ## Jan 8th 2021
 今日の感想
 ボウリングプログラムのメンターレビューが終わり、
