@@ -1,7 +1,7 @@
 # Code_Everday
 Track my progress on study coding everyday
 
-##Mar 10th 2021
+## Mar 10th 2021
 I have been working on freeCodeCamp "JavaScript Algorithms and Data Structures" to be ready for Code Chrysalis. Right, now I finished following:
 - Basic JavaScript
 - ES6
@@ -13,7 +13,7 @@ Tomorrow, I will start working on "Basic Algorithm Scripting."
 
 
 
-##Jan 18th 2021
+## Jan 18th 2021
 今日の感想、
 今日はジムに行ってきたので、
 体力がなくなりすぎてあまりコーディングをできず。
