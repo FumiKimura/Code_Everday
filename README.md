@@ -1,6 +1,9 @@
 # Code_Everday
 Track my progress on study coding everyday
 
+## Mar 19th 2021
+Today I finished one question from freecodecamp's JavaScript basic data structure and algorithms. No matter how busy I will spend time on coding.
+
 ## Mar 11th 2021
 It is almost midnight about to become Mar 12th in 15min. Today, I just finished 5 questions from freecodecamp. I only have 2 more questions left for Basic Data Structures. I will finish up today.
 
