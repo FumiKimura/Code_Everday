@@ -2,6 +2,18 @@
 
 Track my progress on study coding everyday
 
+## May 2nd 2021
+
+Today I learned about basics of react. I learned basics of JavaScript, but I am not sure how to connect/write JavaScript on the html. I need to learn to create real product.
+
+Basically, there are three things I need to have on my portfolio,
+
+- SPA
+- Docker
+- Terraform with AWS
+
+Based on my research, I think this is bare minimum.
+
 ## May 1st 2021
 
 I have not been keeping my coding diary for while.
