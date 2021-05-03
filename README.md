@@ -2,6 +2,18 @@
 
 Track my progress on study coding everyday
 
+## May 3rd 2021
+
+Today I went through to setup CircleCI and AWS S3
+
+CircleCI is CICD platform that can connect to github and automatically runs test and deploy when codes are commited to the repository.
+
+I always wanted to learn but same time felt resistant because I did not know where to start. It was good learning opportunity to start small.
+
+AWS S3 is basically a storage where users can store application.
+
+Everyday learning something new!
+
 ## May 2nd 2021
 
 Today I learned about basics of react. I learned basics of JavaScript, but I am not sure how to connect/write JavaScript on the html. I need to learn to create real product.
