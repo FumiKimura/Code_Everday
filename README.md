@@ -2,6 +2,12 @@
 
 Track my progress on study coding everyday
 
+## May 5th 2021
+
+I had no time to study going through the project today. But, I learned how packet fragmentation works and how that relates to the IP header.
+
+I was expecting concept of how internet works is very hard, but once I spend enough time I was able to understand one of the important concepts. I think I just need to have grit to go through it.
+
 ## May 3rd 2021
 
 Today I went through to setup CircleCI and AWS S3
