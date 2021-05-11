@@ -2,6 +2,14 @@
 
 Track my progress on study coding everyday
 
+## May 11th 2021
+
+I started learning about git and github in the precourse.
+
+So far it has been not so much of new stuff, intead it has been more like refresher to what I learned during Fjord Bootcamp. I should be able to get done unit 0 ~ unit 2 this week.
+
+I am targeting this and spend at least 40 hours a week to study for the code chrysalis.
+
 ## May 5th 2021
 
 I had no time to study going through the project today. But, I learned how packet fragmentation works and how that relates to the IP header.
