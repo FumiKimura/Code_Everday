@@ -2,6 +2,12 @@
 
 Track my progress on study coding everyday
 
+## May 19th 2021
+
+I have been working on the code chrysalis percourses and studying Jasmine test framework. At this point, I have handle the percourses, but I think I just need to get used to the higher-order function and how function being passed to other funciton.
+
+To me this is something I have to practice everyday. At least coding everyday is normal part of the day now.
+
 ## May 11th 2021
 
 I started learning about git and github in the precourse.
