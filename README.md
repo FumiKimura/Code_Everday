@@ -2,6 +2,12 @@
 
 Track my progress on study coding everyday
 
+# May 20th 2021
+
+My current interest is in compiler and lower layer of computers. Why? I am not sure, but one thing I can say is that I like to tear things apart and understand deeper level. Because of my interest in compilers, I am also interested in the WASM.
+
+But, my current level of understanding I can hardly understand about V8 JavaScript engine's execution context.
+
 ## May 19th 2021
 
 I have been working on the code chrysalis percourses and studying Jasmine test framework. At this point, I have handle the percourses, but I think I just need to get used to the higher-order function and how function being passed to other funciton.
