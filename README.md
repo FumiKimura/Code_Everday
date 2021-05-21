@@ -2,7 +2,18 @@
 
 Track my progress on study coding everyday
 
-# May 20th 2021
+## May 21st 2021
+
+How hoisting works?
+
+There are two phases in execution context.
+
+1. Creation phase - when variables are defined and assigned "undefined"
+2. Execution phase - this is when codes are executed, so values are assinged
+
+Since creation phase occurs before execution phase, hoisting occurs (and does not matter where varible is defined for "var").
+
+## May 20th 2021
 
 My current interest is in compiler and lower layer of computers. Why? I am not sure, but one thing I can say is that I like to tear things apart and understand deeper level. Because of my interest in compilers, I am also interested in the WASM.
 
