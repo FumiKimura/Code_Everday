@@ -2,6 +2,17 @@
 
 Track my progress on study coding everyday
 
+## May 22nd 2021
+
+I am gravitating towards low-level languages like C and assembly. I am not sure why but I think I am fascinated with internal workings of computer (aka. how computer works).
+
+Currently I am interested in...
+
+1. Compiler
+2. Interpreter
+3. Computer Networking
+4. Assembly language (maybe I don't need to study too much)
+
 ## May 21st 2021
 
 How hoisting works?
