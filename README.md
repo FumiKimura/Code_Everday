@@ -2,6 +2,17 @@
 
 Track my progress on study coding everyday
 
+## May 26th 2021
+
+Right now in the code chrysalis, I have been learning about recursion (spending more time figuring out what needs to be done in assignments because I think they are purposefully made vague....).
+
+Let me summarize about recursion here:
+
+1. It is function call itself to until hits base case
+2. Base case is the termination point of the recursion
+3. If the base case returns false, call itself again
+4. Under the hood, a new function call is stacked in call stack
+
 ## May 22nd 2021
 
 I am gravitating towards low-level languages like C and assembly. I am not sure why but I think I am fascinated with internal workings of computer (aka. how computer works).
